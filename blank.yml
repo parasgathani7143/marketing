@@ -1,0 +1,16 @@
+name: paras7143
+
+on: [push]
+
+jobs:i am student
+  build:
+
+    runs-on: windows 7
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: hiiiii. it is my native laungaveg gujarati
+    - name: Run a multi-line script
+      run: |
+        my native laungage is gujarati
